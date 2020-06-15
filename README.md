@@ -5,7 +5,7 @@ This project is for Codecool Programming School, Advanced room first week - Reac
 The main purpose of this project was getting famailiar with React.js.This is an official school website for Hogwarts to attract new students.<br><br>
 Hoqwarts is the best place for young and enthusiastic wizards! Send us your application in the "Application" tab. If you are a choosen one, wait for the owl with the details!
 <br>
-<a href="https://github.com/EvelinSzabados/hapipotterbackend">Respository for backend responsible for e-mail sending</a>
+<a href="https://github.com/EvelinSzabados/hapipotterbackend">Repository for backend responsible for e-mail sending</a>
 <br><br>
 <b>Tech stack:</b>
  
