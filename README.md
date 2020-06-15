@@ -21,7 +21,7 @@ Since this is a muggle free application, the main page only displays a basic spe
 <img src="https://i.ibb.co/G7C9kfj/front.jpg">
 
 ## Live version
-<a href="https://jolly-franklin-6d895e.netlify.app/login">Click here to see the live version of project</a>
+<a href="https://jolly-franklin-6d895e.netlify.app">Click here to see the live version of project</a>
 
 
 
