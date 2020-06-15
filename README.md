@@ -11,6 +11,7 @@ Hoqwarts is the best place for young and enthusiastic wizards! Send us your appl
  
  - React.js
  - Custom CSS with styled components
+ - Data passed via React Context API
  - <a href="https://www.potterapi.com/">API used</a>
  
 ## Logging in
