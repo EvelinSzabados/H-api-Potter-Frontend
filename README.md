@@ -1,4 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
+
+This project is for Codecool Programming School, Advanced room first week - React basics.
+<br>
+The main purpose of this project was getting famailiar with React.js.This is an official school website for Hogwarts to attract new students.<br><br>
+Hoqwarts is the best place for young and enthusiastic wizards! Send us your application in the "Application" tab. If you are a choosen one, wait for the owl with the details!
+<br>
+<a href="https://github.com/EvelinSzabados/hapipotterbackend">Respository for backend responsible for e-mail sending</a>
+<br><br>
+<b>Tech stack:</b>
+ 
+ - React.js
+ - Custom CSS with styled components
+ - <a href="https://www.potterapi.com/">API used</a>
+ 
+## Logging in
+
+Since this is a muggle free application, the main page only displays a basic speech converter site. 
+<br><b>Wizards can log in with the magic word "ALOHOMORA" after clicking "Listen" </b>on the front page. Don't forget to allow your browser to switch on your microphone!
+
+<img src="https://i.ibb.co/G7C9kfj/front.jpg">
+
+## Live version
+<a href="https://jolly-franklin-6d895e.netlify.app/login">Click here to see the live version of project</a>
+
+
 
 ## Available Scripts
 
@@ -67,4 +92,8 @@ This section has moved here: <https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: <https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify>
 
-# H-api-Potter-Frontend
+# Creators of the site
+ - Evelin Szabados
+ - Norbert Gőcze
+ - Bence Losonczy
+ - Miklós Horváth
